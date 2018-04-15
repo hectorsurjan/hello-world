@@ -1,2 +1,4 @@
 # hello-world
-Test from the Gihut Tutorial
+Test from the GitHub Tutorial
+
+First steps in the GitHub World
